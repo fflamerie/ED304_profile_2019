@@ -1,6 +1,6 @@
 # How to build your online researcher profile?
 
-Matériel de la présentation "How to build your online researcher profile ?", présentée le 2019-04-25 lors des Journées des doctorants de l'ED304 Sciences et environnements de l'université de Bordeaux.
+Matériel de la présentation "How to build your online researcher profile ?" présentée le 2019-04-25 lors des Journées des doctorants de l'ED304 Sciences et environnements de l'université de Bordeaux.
 
 * Présentation - [md](https://github.com/fflamerie/ED304_profile_2019/blob/master/content/2019_04_ED304_profile.md) 
 * Présentation - [PDF](https://github.com/fflamerie/ED304_profile_2019/blob/master/content/2019_04_ED304_profile.pdf)
